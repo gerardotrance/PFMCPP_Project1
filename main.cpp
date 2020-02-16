@@ -33,89 +33,109 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: dog
+ action 1: the dog barks
+ action 2: the dog walks
+ action 3: the dog eats
  */
-
+dog.bark();
+dog.walk();
+dog.eat();
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: phone
+ action 1: the phone rings
+ action 2: the phone calls
+ action 3: the phone answers
  */
-
+phone.ring();
+phone.call();
+phone.answer();
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:television
+ action 1: the television displays graphics
+ action 2: the television receives signal
+ action 3:the television plays audio
  */
-
+television.receiveSignal();
+television.displayGraphics();
+television.playAudio();
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:microwave
+ action 1:the microwave opens
+ action 2:the microwave closes
+ action 3:the microwave cooks
  */
-
+microwave.open();
+microwave.close();
+microwave.cook();
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:teapot
+ action 1:the teapot fills
+ action 2:the teapot boils
+ action 3:the teapot pours
  */
-
+teapot.fill();
+teapot.boil();
+teapot.pour();
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:ball
+ action 1:the ball rolls
+ action 2:the ball bounces
+ action 3:the ball flys
  */
-
+ball.roll();
+ball.bounce();
+ball.fly();
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:car
+ action 1:the car turns left
+ action 2:the car turns right
+ action 3:the car stops
  */
-
+car.turnLeft();
+car.turnRight();
+car.stop();
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:pigeon
+ action 1:the pigeon chirps
+ action 2:the pigeon pecks
+ action 3:the pigeon flys
  */
-
+pigeon.chirp():
+pigeon.peck():
+pigeon.fly();
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:athlete
+ action 1:the athlete trains
+ action 2:the athlete rests
+ action 3:the athlete competes
  */
-
+athlete.train();
+athlete.rest();
+athlete.compete();
 
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:mario
+ action 1:mario jumps
+ action 2:mario runs forward
+ action 3:mario runs back
  */
-
+mario.jump();
+mario.runForward();
+mario.runBack();
 
 #endif
 
